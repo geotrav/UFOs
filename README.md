@@ -7,7 +7,7 @@ The results are successful as the table is not filterable on changes in any of t
 In figure 1, we can view the loaded table without filters applied.  Next the circle shape is input in to the shape filter and the table is updated to reflect UFO sightins where the shape is a circle.  The results are displayed in figure 2.  Next the circle is deleted but the city of Benton is added.  The results of the city filter are displayed in figure 3.
 Figure 1 ![No Filter](no_filter.png)
 
-Figure 2 ![Shape Filter](circle_filter_png)
+Figure 2 ![Shape Filter](circle_filter.png)
 
 Figure 3 ![City Filter](city_filter.png)
 ### Summary
