@@ -10,7 +10,7 @@
 
 One of the drawbacks to this web page is the lack of a pulldown menu for the potential list of values.  For instance, if you are looking for a city or shape you have to try shapes and cities until you get the right spelling or shape type.  If you type in Denver for instance there are no returns, but there are other cities nearby that have had sightings.  If you had a pulldown that was dynamic it would help the user choose another close by option.  As it stands now you have to filter by state to get a list of potential cities.  For available shapes, a user needs to scroll through the list to see shape types.
 
-#### **Two additional recommendations **
+#### **Two additional recommendations**
 
 1. One potential enhancement would be to include a map with dots that show locations.  A user could then select the area and sightings from the map to filter the table.
 
